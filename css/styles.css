@@ -150,7 +150,7 @@ profile p {
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 800px) {
   main {
     height: 90vh;
     margin: 0;
@@ -181,7 +181,7 @@ profile p {
   .social-profile-section {
     bottom: 95px;
     position: absolute;
-    right: -95px;
+    right: -110px;
   }
 
   .social-icons {
@@ -229,7 +229,6 @@ profile p {
   height: 10vh;
   padding: 10px;
   text-align: center;
-  width: 100%;
 }
 
 .attribution a {
